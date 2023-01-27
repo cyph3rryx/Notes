@@ -21,10 +21,9 @@ string[5] stringArray;
 uint[] dynamicArray;
 ```
 
-<aside>
-💡 Note: Remember that state variables are stored permanently in the blockchain? So creating a dynamic array of structs like this can be useful for storing structured data in your contract, kind of like a database.
 
-</aside>
+## Note: Remember that state variables are stored permanently in the blockchain? So creating a dynamic array of structs like this can be useful for storing structured data in your contract, kind of like a database.
+
 
 ### Example:
 
