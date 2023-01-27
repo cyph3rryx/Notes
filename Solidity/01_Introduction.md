@@ -81,10 +81,8 @@ struct Person {
 }
 ```
 
-<aside>
-💡 Struct is like a class. It helps you to combine multiple variable’s type in one block.
+` Struct is like a class. It helps you to combine multiple variable’s type in one block.`
 
-</aside>
 
 ### Example 2:
 
