@@ -20,6 +20,6 @@ If you have any questions or concerns about these notes, please feel free to con
 
 ## License
 
-All of the notes in this repository are licensed under the Creative Commons Attribution 4.0 International License. This means that you are free to use, share, and adapt these notes as long as you give proper credit to the original author (me) and follow the terms of the license.
+All of the notes in this repository are licensed under the Creative Commons Zero v1.0 Universal License. This means that you are free to use, share, and adapt these notes as long as you give proper credit to the original author (me) and follow the terms of the license.
 
 ### Thank you for using my notes and happy studying!🫂😁🥂
