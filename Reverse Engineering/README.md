@@ -1,6 +1,6 @@
-# Reverse Engineering Notes
+# Reverse Engineering and Malware Analysis Notes
 
-Welcome to the "Reverse Engineering Notes"! This repository contains comprehensive notes covering various aspects of reverse engineering, with a focus on malware analysis. These notes can serve as a valuable resource for understanding the basics of reverse engineering.
+Welcome to the "Reverse Engineering and Malware Analysis Notes"! This repository contains comprehensive notes covering various aspects of reverse engineering, with a focus on malware analysis. These notes can serve as a valuable resource for understanding the basics of reverse engineering.
 
 ## Table of Contents
 
